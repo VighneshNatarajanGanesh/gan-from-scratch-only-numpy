@@ -8,4 +8,4 @@ This repo contains the code for a gan that has been written from the ground up w
 <img src="readme_images/o4.PNG" />
 <img src="readme_images/o5.PNG" />
 
-( for more info on the gan, read the ipynb notebook. It contains information oh how to use a single nn class as a classifier, generator and a discriminator and also how to backpropagate through stacked fully connected networks))
+( for more info on the gan, read the ipynb notebook. It contains information oh how to use a single nn class as a classifier, generator and a discriminator and also info on how to backpropagate through stacked fully connected neural networks)
